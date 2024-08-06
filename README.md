@@ -7,3 +7,7 @@ Fetches current weather data using OpenWeatherMap API
 Displays temperature, feels-like temperature, humidity, weather description, wind speed, and pressure
 Responsive and user-friendly design
 Utilizes React Hooks for state management
+
+# Deploy
+
+https://nicki-weather-app.netlify.app
